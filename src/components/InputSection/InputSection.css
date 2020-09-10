@@ -1,0 +1,17 @@
+.Input-section {
+    background-color: white;
+    min-height: 25vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: calc(10px + 2vmin);
+}
+
+.Url-input {
+    width: 70vw;
+}
+
+.Shorten-button {
+    width: 40vw;
+}
